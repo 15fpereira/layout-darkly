@@ -1,4 +1,4 @@
-<html lang="en">
+<html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
 <head>
     @include('layouts.parciais.head')
 </head>
@@ -7,7 +7,6 @@
     @include('layouts.parciais.header')
     @yield('content')
     @include('layouts.parciais.footer')
-    @include('layouts.parciais.footer-scripts')
 </body>
 </html>
 

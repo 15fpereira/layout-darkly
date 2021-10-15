@@ -7,9 +7,9 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About the Project Layout Darkly
+## About the Darkly Project Layout
 
-Projeto simples com Layout escuro criado utilizando o framework Laravel.
+Projeto simples com Layout escuro criado utilizando o framework Bootstrap e Laravel.
 - [Site do Bootstraps Darkly](https://bootswatch.com/darkly/).
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
 - [Powerful dependency injection container](https://laravel.com/docs/container).
